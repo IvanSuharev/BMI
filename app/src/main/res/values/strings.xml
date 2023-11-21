@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppForSport</string>
+    <string name="title">BMI</string>
+    <string name="mass">Mass:</string>
+    <string name="mass_to_editText">mass</string>
+    <string name="height">Height:</string>
+    <string name="height_to_editText">height</string>
+    <string name="calculate">Calculate</string>
+</resources>
